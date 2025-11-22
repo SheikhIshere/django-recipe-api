@@ -29,7 +29,7 @@ A robust, well-tested RESTful API for managing recipes with full CRUD operations
 
 1. **Clone & Setup**
 ```bash
-git clone <your-repo>
+git clone https://github.com/SheikhIshere/django-recipe-api
 cd recipe_api
 ```
 
