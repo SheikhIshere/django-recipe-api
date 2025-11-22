@@ -1,0 +1,12 @@
+# VCS and docker
+.git
+.gitignore
+.docker
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Local env / secrets
+.venv/
+.env
